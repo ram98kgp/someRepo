@@ -1,0 +1,2 @@
+# InstaDjango
+docker-compose up
